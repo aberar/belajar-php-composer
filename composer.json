@@ -1,0 +1,17 @@
+{
+  "name": "programmerzamannow/php-composer-library",
+  "description": "Belajar PHP Composer",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Programmerzamannow\\Belajar\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Abrar Bachtiar",
+      "email": "abe.kedai@gmail.com"
+    }
+  ],
+  "require": {}
+}
